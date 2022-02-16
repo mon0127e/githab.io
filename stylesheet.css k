@@ -1,0 +1,28 @@
+.info-pics{
+    position: relative;
+    text-align: center;
+}
+
+.info-pics h1{
+   color: white;
+   top: 200px;
+   left: 43%;
+   position: absolute;
+}
+
+.info-pics p{
+    color: white;
+    top: 255px;
+    left: 43%;
+    position: absolute;
+}
+
+.nav{
+    text-align: center;
+
+}
+
+.nav h1{
+    color: red;
+
+}
